@@ -1,0 +1,8 @@
+Website = "https://example.com"
+
+[Details]
+  Icon = "res/icon.png"
+  Name = "ScreenPlay"
+  ID = "pd.arming.screenplay"
+  Version = "1.0.0"
+  Build = 5
